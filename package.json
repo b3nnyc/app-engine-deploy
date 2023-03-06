@@ -1,0 +1,23 @@
+{
+  "name": "deploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appengine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node appengine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b3nnyc/app-engine-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b3nnyc/app-engine-deploy/issues"
+  },
+  "homepage": "https://github.com/b3nnyc/app-engine-deploy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
